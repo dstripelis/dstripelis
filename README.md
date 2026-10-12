@@ -10,7 +10,7 @@ AI Engineer, working on distributed AI systems, federated learning, collaborativ
 
 Previously a Research Engineer and Computer Scientist (PhD, University of Southern California - Information Sciences Institute).
 
-### 🔬 Focus & Selected Work
+### 🔬 Focus Areas & Selected Work
 
 - **Distributed and Federated AI:** Building systems for scalable, privacy-aware machine learning and inference.
 - **Collaborative AI Agents:** Exploring how agents can cooperate, share context, and run across distributed infrastructure.
@@ -18,7 +18,7 @@ Previously a Research Engineer and Computer Scientist (PhD, University of Southe
 
 Selected projects, I have contributed to.
 
-| Project | Focus |
+| Project | Description |
 | --- | --- |
 | [Flower](https://github.com/adap/flower) | Open-source framework for federated and distributed AI. |
 | [FlowerBench](https://flower.ai/benchmarks/flowerbench/) | Evaluation of AI agents on real-world enterprise tasks. |
