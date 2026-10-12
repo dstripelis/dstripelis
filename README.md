@@ -10,21 +10,21 @@ AI Engineer, working on distributed AI systems, federated learning, collaborativ
 
 Previously a Research Engineer and Computer Scientist (PhD, University of Southern California - Information Sciences Institute).
 
-### Research & Engineering
+### 🔬 Focus & Selected Work
 
 - **Distributed and Federated AI:** Building systems for scalable, privacy-aware machine learning and inference.
-- **Collaborative AI Agents:** Exploring how agents can coordinate, share context, and execute workloads across distributed infrastructure.
+- **Collaborative AI Agents:** Exploring how agents can cooperate, share context, and run across distributed infrastructure.
 - **LLM Evaluation:** Benchmarking language models and agents on realistic, long-horizon tasks.
 
-Selected projects and papers I've contributed to.
+Selected projects, I have contributed to.
 
 | Project | Focus |
 | --- | --- |
 | [Flower](https://github.com/adap/flower) | Open-source framework for federated and distributed AI. |
 | [FlowerBench](https://flower.ai/benchmarks/flowerbench/) | Evaluation of AI agents on real-world enterprise tasks. |
-| [FedRAG](https://github.com/flwrlabs/flower/tree/main/examples/fedrag) · [Paper](https://arxiv.org/pdf/2603.25374) | Federated retrieval-augmented generation with local retrieval across private data silos and confidential server-side inference. |
-| [MetisFL](https://github.com/bioint/MetisFL) · [Paper · Patterns](https://doi.org/10.1016/j.patter.2024.101031) | Secure federated learning for neuroimaging, with homomorphic encryption for model aggregation. |
-| [FedSparsify](https://github.com/dstripelis/FedSparsify) · [Paper · NeurIPS 2022 FL Workshop](https://openreview.net/forum?id=GLQqPTRrQMx) | Progressive model pruning during federated training to reduce communication costs and improve inference efficiency. |
-| [TensorOpera Router (PolyRouter)](https://aclanthology.org/2024.emnlp-industry.34/) | Dynamic routing across LLM experts to balance response quality, latency, and cost. |
+| [FedRAG](https://github.com/flwrlabs/flower/tree/main/examples/fedrag) · [arXiv](https://arxiv.org/pdf/2603.25374) | Federated retrieval-augmented generation with local retrieval across private data silos and confidential server-side inference. |
+| [MetisFL](https://github.com/bioint/MetisFL) · [Patterns](https://doi.org/10.1016/j.patter.2024.101031) | Secure federated learning for neuroimaging, with homomorphic encryption for model aggregation. |
+| [FedSparsify](https://github.com/dstripelis/FedSparsify) · [NeurIPS FL Workshop](https://openreview.net/forum?id=GLQqPTRrQMx) | Progressive model pruning during federated training to reduce communication costs and improve inference efficiency. |
+| [TensorOpera Router (PolyRouter)](https://aclanthology.org/2024.emnlp-industry.34/) · [EMNLP Industry Track](https://aclanthology.org/2024.emnlp-industry.34/) | Dynamic routing across LLM experts to balance response quality, latency, and cost. |
 | [Awesome-LLM-Routing](https://github.com/dstripelis/Awesome-LLM-Routing) | Curated papers, tools, and projects on LLM and model routing. |
-| [Semi-Synchronous Federated Learning](https://dl.acm.org/doi/10.1145/3524885) | Energy-efficient training and faster convergence across sites with heterogeneous data and compute. |
+| [Semi-Synchronous Federated Learning](https://dl.acm.org/doi/10.1145/3524885) · [ACM TIST](https://dl.acm.org/doi/10.1145/3524885) | Energy-efficient training and faster convergence across sites with heterogeneous data and compute. |
